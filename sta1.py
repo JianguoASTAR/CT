@@ -42,7 +42,7 @@ def getFolders(parentPath, childPathList):
 def writeData2CSV(data, filename):
     f = open(filename,'w')
     for d in data:
-        f.write(str(d))
+        f.write(str(d).replace('[','').replace(']','').replace(' ','').replace('\'',''))
         f.write("\n")
     f.close()
 
@@ -50,6 +50,7 @@ def writeData2CSV(data, filename):
 #childPathList: G:\SMART\PySMART\data3\OriginalData\A001\000\000\000\068\77\352
 def getPatientScanIDs(basepath, childPathList):
     patientScanList = list() #保存Patient ID, Scan ID
+    patientScanList.append(["PatientID", "ScanID", "Imagecount", "Path"])  #增加一个标题行
     for path in childPathList:
         item2 = path.replace(basepath, "")   #先将根目录去掉
         subitems = item2.split('\\')  #根据'\'字符切分
