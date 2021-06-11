@@ -106,3 +106,21 @@ def saveNRRDBySimpleITK(patientList,pathList):
 
 saveNRRDBySimpleITK(patientList,pathList)
 
+
+#2 使用SimpleITK将DICOM序列文件另存为nrrd文件(因为保存为dcm文件时会出错)
+def savenrrdBySimpleITK(dicompath):
+    #设置序列读取器
+    series_reader = sitk.ImageSeriesReader()
+    #获取所有图像文件名
+    fileNames = series_reader.GetGDCMSeriesFileNames(dicompath)
+    #将图像文件名列表载入序列读取器中
+    series_reader.SetFileNames(fileNames)
+    series_reader.MetaDataDictionaryArrayUpdateOn()
+    series_reader.LoadPrivateTagsOn()
+    #执行图像序列读取,得到3D图像数据集
+    images = series_reader.Execute()
+    #查看3D图像的尺寸
+    #print(images.GetSize())
+    #将序列保存为单个DCM或者NRRD文件
+    sitk.WriteImage(images, "../data/D002_SRS00002_SimpleITK.nrrd")
+    sitk.WriteImage(images, "../data/D002_SRS00002_SimpleITK.nii.gz")
