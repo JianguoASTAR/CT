@@ -1,360 +1,588 @@
-PatientID,ScanID,Imagecount,Path
-0105df60, AGCUO5M1, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0105df60\\LEDMRE1L\\AGCUO5M1
-0105df60, AHMYOPM1, 142, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0105df60\\LEDMRE1L\\AHMYOPM1
-0105df60, AYFUOPM1, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0105df60\\LEDMRE1L\\AYFUOPM1
-0105df60, BW1XSDWO, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0105df60\\LEDMRE1L\\BW1XSDWO
-0105df60, LJ3BRVQT, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0105df60\\LEDMRE1L\\LJ3BRVQT
-08d80067, EIQQZLG1, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\08d80067\\ME1FRG1L\\EIQQZLG1
-08d80067, VXMKEWTQ, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\08d80067\\ME1FRG1L\\VXMKEWTQ
-08d80067, WPUHRHS1, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\08d80067\\ME1FRG1L\\WPUHRHS1
-08d80067, X2MGIXS1, 134, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\08d80067\\ME1FRG1L\\X2MGIXS1
-08d80067, X3F0IXS1, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\08d80067\\ME1FRG1L\\X3F0IXS1
-0bbfa4a3, DP33F3CV, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0bbfa4a3\\EZLBRELI\\DP33F3CV
-0bbfa4a3, NW0G2DEH, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0bbfa4a3\\EZLBRELI\\NW0G2DEH
-0bbfa4a3, UN3GWQZH, 126, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0bbfa4a3\\EZLBRELI\\UN3GWQZH
-0bbfa4a3, USUKWQZH, 158, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0bbfa4a3\\EZLBRELI\\USUKWQZH
-0bbfa4a3, UT0GWAZH, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0bbfa4a3\\EZLBRELI\\UT0GWAZH
-0e4d9b76, PMZBYQ2T, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0e4d9b76\\DIDXRELP\\PMZBYQ2T
-0e4d9b76, SG35FFSV, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0e4d9b76\\DIDXRELP\\SG35FFSV
-0e4d9b76, VTJUSIM0, 126, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0e4d9b76\\DIDXRELP\\VTJUSIM0
-0e4d9b76, VXHYSYM0, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0e4d9b76\\DIDXRELP\\VXHYSYM0
-0f47322b, JQU0MQDD, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0f47322b\\MI0VRGTK\\JQU0MQDD
-0f47322b, JT4Z22UD, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0f47322b\\MI0VRGTK\\JT4Z22UD
-0f47322b, UK1QY42A, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0f47322b\\MI0VRGTK\\UK1QY42A
-0f47322b, ULV2YO2A, 158, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0f47322b\\MI0VRGTK\\ULV2YO2A
-0f47322b, UU2QYO2A, 101, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0f47322b\\MI0VRGTK\\UU2QYO2A
-0fd514fc, 0CYCTZIY, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0fd514fc\\J00AJDB2\\0CYCTZIY
-0fd514fc, 0DR4TZIY, 134, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0fd514fc\\J00AJDB2\\0DR4TZIY
-0fd514fc, 1QJ5KJIY, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0fd514fc\\J00AJDB2\\1QJ5KJIY
-0fd514fc, C00UNBMK, 34, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0fd514fc\\J00AJDB2\\C00UNBMK
-0fd514fc, CZWUNRMK, 72, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0fd514fc\\J00AJDB2\\CZWUNRMK
-0fd514fc, HLDFGG41, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\0fd514fc\\J00AJDB2\\HLDFGG41
-11c00f1d, AHIZWHDD, 84, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\11c00f1d\\JS03JDZ5\\AHIZWHDD
-11c00f1d, CQMMV2YP, 84, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\11c00f1d\\JS03JDZ5\\CQMMV2YP
-11c00f1d, J3M24MOR, 84, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\11c00f1d\\JS03JDZ5\\J3M24MOR
-11c00f1d, JCFQ4MOR, 124, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\11c00f1d\\JS03JDZ5\\JCFQ4MOR
-11c00f1d, JDL242OR, 84, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\11c00f1d\\JS03JDZ5\\JDL242OR
-124772d6, KCLPF1Y4, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\124772d6\\KYDHRG1K\\KCLPF1Y4
-124772d6, LGONO53D, 126, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\124772d6\\KYDHRG1K\\LGONO53D
-124772d6, LHABOP3D, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\124772d6\\KYDHRG1K\\LHABOP3D
-124772d6, LZHBO53D, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\124772d6\\KYDHRG1K\\LZHBO53D
-124772d6, Z4IHDPSU, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\124772d6\\KYDHRG1K\\Z4IHDPSU
-12c1b0f9, BS2V5003, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\12c1b0f9\\WVTMRELM\\BS2V5003
-12c1b0f9, JAZQNPFW, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\12c1b0f9\\WVTMRELM\\JAZQNPFW
-12c1b0f9, JOQMNPFW, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\12c1b0f9\\WVTMRELM\\JOQMNPFW
-12c1b0f9, RZTG5SR4, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\12c1b0f9\\WVTMRELM\\RZTG5SR4
-1b71cbc1, GMVTEEO2, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\1b71cbc1\\CUDBRGTP\\GMVTEEO2
-1b71cbc1, GMYUOD40, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\1b71cbc1\\CUDBRGTP\\GMYUOD40
-1b71cbc1, ZGD0ZQZI, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\1b71cbc1\\CUDBRGTP\\ZGD0ZQZI
-1b71cbc1, ZYE0ZAZI, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\1b71cbc1\\CUDBRGTP\\ZYE0ZAZI
-1b71cbc1, ZZKWZQZI, 134, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\1b71cbc1\\CUDBRGTP\\ZZKWZQZI
-21556cad, SM5R3B0M, 88, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\21556cad\\MDKTRGDM\\SM5R3B0M
-21556cad, VG15YCCS, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\21556cad\\MDKTRGDM\\VG15YCCS
-21556cad, YLG4VGMH, 88, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\21556cad\\MDKTRGDM\\YLG4VGMH
-21556cad, YPISVWMH, 113, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\21556cad\\MDKTRGDM\\YPISVWMH
-218dfc1f, JHJTSQ3A, 92, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\218dfc1f\\OHCQRFDE\\JHJTSQ3A
-218dfc1f, M2YUCOPZ, 84, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\218dfc1f\\OHCQRFDE\\M2YUCOPZ
-218dfc1f, M3WYC4PZ, 156, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\218dfc1f\\OHCQRFDE\\M3WYC4PZ
-218dfc1f, MC5UC4PZ, 99, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\218dfc1f\\OHCQRFDE\\MC5UC4PZ
-218dfc1f, XO3NLPQ1, 84, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\218dfc1f\\OHCQRFDE\\XO3NLPQ1
-25cfd6e7, 2LDDMFPY, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\25cfd6e7\\OEPDRFTI\\2LDDMFPY
-25cfd6e7, 2UKPMFPY, 138, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\25cfd6e7\\OEPDRFTI\\2UKPMFPY
-25cfd6e7, 2VEDMVPY, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\25cfd6e7\\OEPDRFTI\\2VEDMVPY
-25cfd6e7, 2XMPIB0F, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\25cfd6e7\\OEPDRFTI\\2XMPIB0F
-25cfd6e7, J31RDDHZ, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\25cfd6e7\\OEPDRFTI\\J31RDDHZ
-26737d04, 2MD1KPYC, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\26737d04\\TEHORGDH\\2MD1KPYC
-26737d04, 2SE1K5YC, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\26737d04\\TEHORGDH\\2SE1K5YC
-26737d04, 2TKXKPYC, 132, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\26737d04\\TEHORGDH\\2TKXKPYC
-26737d04, 305JED5V, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\26737d04\\TEHORGDH\\305JED5V
-26737d04, Z2Y15RGF, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\26737d04\\TEHORGDH\\Z2Y15RGF
-2a6ad103, MJMSFVOO, 54, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2a6ad103\\E5GEQK1K\\MJMSFVOO
-2a6ad103, NVYS2FOO, 34, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2a6ad103\\E5GEQK1K\\NVYS2FOO
-2a6ad103, RF2G5DSX, 34, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2a6ad103\\E5GEQK1K\\RF2G5DSX
-2a6ad103, X1345DSX, 34, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2a6ad103\\E5GEQK1K\\X1345DSX
-2b786308, RFUGCMIA, 52, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2b786308\\MAB2QKDJ\\RFUGCMIA
-2b786308, SXUSCMIA, 52, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2b786308\\MAB2QKDJ\\SXUSCMIA
-2b786308, XXUKCMIA, 138, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2b786308\\MAB2QKDJ\\XXUKCMIA
-2b786308, XYUGCMIA, 52, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2b786308\\MAB2QKDJ\\XYUGCMIA
-2d08555a, B22LFNUY, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2d08555a\\NLKVRE1E\\B22LFNUY
-2d08555a, P3Y0ARS3, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2d08555a\\NLKVRE1E\\P3Y0ARS3
-2d08555a, PSY0C5YW, 130, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2d08555a\\NLKVRE1E\\PSY0C5YW
-2d08555a, PWWWCPYW, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\2d08555a\\NLKVRE1E\\PWWWCPYW
-31aeff0f, FZHTUC3R, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\31aeff0f\\C1SRRE1P\\FZHTUC3R
-31aeff0f, IITONXSD, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\31aeff0f\\C1SRRE1P\\IITONXSD
-31aeff0f, IM3CNHSD, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\31aeff0f\\C1SRRE1P\\IM3CNHSD
-31aeff0f, M52R00GT, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\31aeff0f\\C1SRRE1P\\M52R00GT
-33c55881, HILZB55Y, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\33c55881\\LLPARFDM\\HILZB55Y
-33c55881, HJFVBP5Y, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\33c55881\\LLPARFDM\\HJFVBP5Y
-33c55881, HXCVB55Y, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\33c55881\\LLPARFDM\\HXCVB55Y
-33c55881, TDT45CR4, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\33c55881\\LLPARFDM\\TDT45CR4
-33c55881, Z53WJOKF, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\33c55881\\LLPARFDM\\Z53WJOKF
-36c22d03, 3WL50CDN, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\36c22d03\\BHLERE1K\\3WL50CDN
-36c22d03, QKFMEXN0, 138, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\36c22d03\\BHLERE1K\\QKFMEXN0
-36c22d03, QLLAEHN0, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\36c22d03\\BHLERE1K\\QLLAEHN0
-36c22d03, QVMAEXN0, 118, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\36c22d03\\BHLERE1K\\QVMAEXN0
-36c22d03, ST5B22EZ, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\36c22d03\\BHLERE1K\\ST5B22EZ
-38d6ea7f, 5WRZYYLF, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\38d6ea7f\\JHGVQKDJ\\5WRZYYLF
-38d6ea7f, MO1VAASR, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\38d6ea7f\\JHGVQKDJ\\MO1VAASR
-38d6ea7f, MPVZAQSR, 120, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\38d6ea7f\\JHGVQKDJ\\MPVZAQSR
-38d6ea7f, MQ2VAQSR, 101, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\38d6ea7f\\JHGVQKDJ\\MQ2VAQSR
-38d6ea7f, OJSN4SV3, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\38d6ea7f\\JHGVQKDJ\\OJSN4SV3
-39f9ae62, ABYJZEH0, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\39f9ae62\\SQSVRFTI\\ABYJZEH0
-39f9ae62, NOK1ACS5, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\39f9ae62\\SQSVRFTI\\NOK1ACS5
-39f9ae62, YONPBG31, 136, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\39f9ae62\\SQSVRFTI\\YONPBG31
-39f9ae62, YPDDBW31, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\39f9ae62\\SQSVRFTI\\YPDDBW31
-39f9ae62, YREDBG31, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\39f9ae62\\SQSVRFTI\\YREDBG31
-3d5a8bde, 2HW2TTSK, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\3d5a8bde\\KTS5REDL\\2HW2TTSK
-3d5a8bde, 2LYQTDSK, 184, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\3d5a8bde\\KTS5REDL\\2LYQTDSK
-3d5a8bde, H3CTBDMR, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\3d5a8bde\\KTS5REDL\\H3CTBDMR
-3d5a8bde, UQHCAP5H, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\3d5a8bde\\KTS5REDL\\UQHCAP5H
-4452d959, 5E04EDII, 42, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4452d959\\UVWHQILI\\5E04EDII
-4452d959, T3YNICS1, 51, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4452d959\\UVWHQILI\\T3YNICS1
-4452d959, UHJO5TBR, 42, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4452d959\\UVWHQILI\\UHJO5TBR
-4452d959, ULYNICS1, 83, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4452d959\\UVWHQILI\\ULYNICS1
-4452d959, V13OGDBR, 75, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4452d959\\UVWHQILI\\V13OGDBR
-4452d959, V5VKGDBR, 57, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4452d959\\UVWHQILI\\V5VKGDBR
-4675e8d7, 2JCC3YSX, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4675e8d7\\UV1ORGTK\\2JCC3YSX
-4675e8d7, 2WLO3YSX, 130, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4675e8d7\\UV1ORGTK\\2WLO3YSX
-4675e8d7, 2XFC3ISX, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4675e8d7\\UV1ORGTK\\2XFC3ISX
-4675e8d7, CJ1SHRSZ, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4675e8d7\\UV1ORGTK\\CJ1SHRSZ
-4675e8d7, EORJBCG5, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4675e8d7\\UV1ORGTK\\EORJBCG5
-46b6b0df, 3GM0E5XG, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\46b6b0df\\IACSRF1M\\3GM0E5XG
-46b6b0df, CCLLKGI0, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\46b6b0df\\IACSRF1M\\CCLLKGI0
-46b6b0df, CYTHKGI0, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\46b6b0df\\IACSRF1M\\CYTHKGI0
-46b6b0df, MDQSQL5V, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\46b6b0df\\IACSRF1M\\MDQSQL5V
-47e2b3f1, FR2L4TFF, 74, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\47e2b3f1\\CE1MRG1H\\FR2L4TFF
-47e2b3f1, Q23QZHDS, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\47e2b3f1\\CE1MRG1H\\Q23QZHDS
-47e2b3f1, QC0QZXDS, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\47e2b3f1\\CE1MRG1H\\QC0QZXDS
-47e2b3f1, QDU2ZHDS, 158, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\47e2b3f1\\CE1MRG1H\\QDU2ZHDS
-47e2b3f1, ZS5NU3UF, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\47e2b3f1\\CE1MRG1H\\ZS5NU3UF
-49af368e, 0ID2Q2GR, 39, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\49af368e\\IBW2QILG\\0ID2Q2GR
-49af368e, 5MCIQ2GR, 39, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\49af368e\\IBW2QILG\\5MCIQ2GR
-49af368e, WC0SVA22, 48, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\49af368e\\IBW2QILG\\WC0SVA22
-49af368e, WGSWVA22, 64, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\49af368e\\IBW2QILG\\WGSWVA22
-49af368e, X0GWMQ22, 39, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\49af368e\\IBW2QILG\\X0GWMQ22
-4b2ae7df, V3I52X2H, 118, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4b2ae7df\\DECTRG1J\\V3I52X2H
-4b2ae7df, VADTNNAV, 92, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4b2ae7df\\DECTRG1J\\VADTNNAV
-4b2ae7df, VCBT2X2H, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4b2ae7df\\DECTRG1J\\VCBT2X2H
-4b2ae7df, VDP52H2H, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4b2ae7df\\DECTRG1J\\VDP52H2H
-4b2ae7df, XN1GABEE, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4b2ae7df\\DECTRG1J\\XN1GABEE
-4fbec240, JOGT2EB4, 79, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4fbec240\\GA1JXMTI\\JOGT2EB4
-4fbec240, P0HL2EB4, 35, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4fbec240\\GA1JXMTI\\P0HL2EB4
-4fbec240, PTGT2EB4, 35, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\4fbec240\\GA1JXMTI\\PTGT2EB4
-513b4145, 04NRF5VC, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\513b4145\\KBTXRF1E\\04NRF5VC
-513b4145, TGYQGJ2E, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\513b4145\\KBTXRF1E\\TGYQGJ2E
-513b4145, THW2GZ2E, 174, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\513b4145\\KBTXRF1E\\THW2GZ2E
-513b4145, TY5QGZ2E, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\513b4145\\KBTXRF1E\\TY5QGZ2E
-513b4145, YAJCQPUB, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\513b4145\\KBTXRF1E\\YAJCQPUB
-51f582d4, 35RVAUKD, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\51f582d4\\TRSPJCR2\\35RVAUKD
-51f582d4, 3AYZAUKD, 130, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\51f582d4\\TRSPJCR2\\3AYZAUKD
-51f582d4, 3BWVAEKD, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\51f582d4\\TRSPJCR2\\3BWVAEKD
-51f582d4, I1NMXRRR, 84, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\51f582d4\\TRSPJCR2\\I1NMXRRR
-51f582d4, MF0FXHIJ, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\51f582d4\\TRSPJCR2\\MF0FXHIJ
-52a2ab48, 0TJU12QA, 100, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\52a2ab48\\NNOSQKTM\\0TJU12QA
-52a2ab48, CAHRDWZN, 100, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\52a2ab48\\NNOSQKTM\\CAHRDWZN
-52a2ab48, VJVYAIAS, 117, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\52a2ab48\\NNOSQKTM\\VJVYAIAS
-52a2ab48, VN1UAYAS, 100, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\52a2ab48\\NNOSQKTM\\VN1UAYAS
-5c7708a0, 2LRQDH34, 116, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\5c7708a0\\SJPORFDK\\2LRQDH34
-5c7708a0, 2P52DX34, 145, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\5c7708a0\\SJPORFDK\\2P52DX34
-5c7708a0, FPK4JM0S, 116, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\5c7708a0\\SJPORFDK\\FPK4JM0S
-5c7708a0, ZISGOW5W, 116, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\5c7708a0\\SJPORFDK\\ZISGOW5W
-614d830e, 1OJV41YX, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\614d830e\\SFKPJCZ3\\1OJV41YX
-614d830e, AEYBACNT, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\614d830e\\SFKPJCZ3\\AEYBACNT
-614d830e, AI22G2JN, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\614d830e\\SFKPJCZ3\\AI22G2JN
-614d830e, AMSQGMJN, 115, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\614d830e\\SFKPJCZ3\\AMSQGMJN
-61a0a777, 2LIBENMO, 61, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\61a0a777\\VJWMQIDP\\2LIBENMO
-61a0a777, 2PAFENMO, 80, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\61a0a777\\VJWMQIDP\\2PAFENMO
-61a0a777, 3TUF33MO, 44, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\61a0a777\\VJWMQIDP\\3TUF33MO
-61a0a777, AXR0ZPFW, 44, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\61a0a777\\VJWMQIDP\\AXR0ZPFW
-61a0a777, D0QOZPFW, 44, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\61a0a777\\VJWMQIDP\\D0QOZPFW
-64d27997, 40TQLAFT, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\64d27997\\I5S4RGDK\\40TQLAFT
-64d27997, F2JNNHTM, 138, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\64d27997\\I5S4RGDK\\F2JNNHTM
-64d27997, F3HBNXTM, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\64d27997\\I5S4RGDK\\F3HBNXTM
-64d27997, FDABNHTM, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\64d27997\\I5S4RGDK\\FDABNHTM
-64d27997, FZWSIU0J, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\64d27997\\I5S4RGDK\\FZWSIU0J
-65f7cdf9, VV4X23MU, 36, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\65f7cdf9\\AYJUQKDL\\VV4X23MU
-65f7cdf9, WU4123MU, 99, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\65f7cdf9\\AYJUQKDL\\WU4123MU
-65f7cdf9, WW4523MU, 36, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\65f7cdf9\\AYJUQKDL\\WW4523MU
-65f7cdf9, XU4X23MU, 36, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\65f7cdf9\\AYJUQKDL\\XU4X23MU
-6a7cab6a, LKRA2GBE, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6a7cab6a\\FF0TRGTI\\LKRA2GBE
-6a7cab6a, LUWA2WBE, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6a7cab6a\\FF0TRGTI\\LUWA2WBE
-6a7cab6a, LVYM2GBE, 158, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6a7cab6a\\FF0TRGTI\\LVYM2GBE
-6a7cab6a, S21WCREE, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6a7cab6a\\FF0TRGTI\\S21WCREE
-6a7cab6a, VAC1IN2V, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6a7cab6a\\FF0TRGTI\\VAC1IN2V
-6e1784d7, 4KXOYY3O, 51, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6e1784d7\\DLGUQK1K\\4KXOYY3O
-6e1784d7, 5SLKBI3O, 64, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6e1784d7\\DLGUQK1K\\5SLKBI3O
-6e1784d7, 5WDOBI3O, 70, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6e1784d7\\DLGUQK1K\\5WDOBI3O
-6e1784d7, WBIJAN4F, 51, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6e1784d7\\DLGUQK1K\\WBIJAN4F
-6e1784d7, WRJ3AN4F, 51, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6e1784d7\\DLGUQK1K\\WRJ3AN4F
-6ff9d904, 0NYG1ZDV, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6ff9d904\\WBXBRGDE\\0NYG1ZDV
-6ff9d904, PJQLIPIL, 126, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6ff9d904\\WBXBRGDE\\PJQLIPIL
-6ff9d904, PN4HI5IL, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6ff9d904\\WBXBRGDE\\PN4HI5IL
-6ff9d904, RRCZ3L1J, 96, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\6ff9d904\\WBXBRGDE\\RRCZ3L1J
-77e10e32, 3N2J2H4P, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\77e10e32\\UZXCRGDN\\3N2J2H4P
-77e10e32, IYCDTCGM, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\77e10e32\\UZXCRGDN\\IYCDTCGM
-77e10e32, QKA0Z3QO, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\77e10e32\\UZXCRGDN\\QKA0Z3QO
-77e10e32, QOOWZNQO, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\77e10e32\\UZXCRGDN\\QOOWZNQO
-781c605c, LA5JGIWO, 46, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\781c605c\\NLRRQIDK\\LA5JGIWO
-781c605c, MB0SROJH, 64, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\781c605c\\NLRRQIDK\\MB0SROJH
-781c605c, NXOSI4JH, 46, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\781c605c\\NLRRQIDK\\NXOSI4JH
-781c605c, U1QCWVSP, 47, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\781c605c\\NLRRQIDK\\U1QCWVSP
-79408454, 3QMMLYHU, 66, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79408454\\MDKXRFTM\\3QMMLYHU
-79408454, 5132FX2W, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79408454\\MDKXRFTM\\5132FX2W
-79408454, 5EUQFX2W, 148, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79408454\\MDKXRFTM\\5EUQFX2W
-79408454, 5F02FH2W, 66, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79408454\\MDKXRFTM\\5F02FH2W
-79408454, DNTZIQUU, 66, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79408454\\MDKXRFTM\\DNTZIQUU
-79efb594, CMD5WT15, 80, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79efb594\\JVCOJDZW\\CMD5WT15
-79efb594, IHCYJLMH, 80, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79efb594\\JVCOJDZW\\IHCYJLMH
-79efb594, K4T5OMP1, 100, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79efb594\\JVCOJDZW\\K4T5OMP1
-79efb594, KAU5O2P1, 80, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79efb594\\JVCOJDZW\\KAU5O2P1
-79efb594, KB0TOMP1, 130, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\79efb594\\JVCOJDZW\\KB0TOMP1
-83f39023, 5T4CSIU3, 96, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\83f39023\\O3TERF1P\\5T4CSIU3
-83f39023, PAR24IZN, 104, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\83f39023\\O3TERF1P\\PAR24IZN
-83f39023, PE5Q4YZN, 96, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\83f39023\\O3TERF1P\\PE5Q4YZN
-83f39023, SMPXZP3S, 96, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\83f39023\\O3TERF1P\\SMPXZP3S
-8e74b56e, DPC2SA55, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8e74b56e\\CVTEREDL\\DPC2SA55
-8e74b56e, DRF2SQ55, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8e74b56e\\CVTEREDL\\DRF2SQ55
-8e74b56e, OP1SE4SB, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8e74b56e\\CVTEREDL\\OP1SE4SB
-8e74b56e, 3TJW4XTD, 130, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8e74b56e\\WQ0QRF1K\\3TJW4XTD
-8e74b56e, PORMEA4A, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8e74b56e\\WQ0QRF1K\\PORMEA4A
-8fb88b3e, E0PT3X5E, 130, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8fb88b3e\\M2DMRF1N\\E0PT3X5E
-8fb88b3e, EEIT3H5E, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8fb88b3e\\M2DMRF1N\\EEIT3H5E
-8fb88b3e, EFG53X5E, 144, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8fb88b3e\\M2DMRF1N\\EFG53X5E
-8fb88b3e, FRIYPUBB, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8fb88b3e\\M2DMRF1N\\FRIYPUBB
-8fb88b3e, LOS3Q52R, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8fb88b3e\\M2DMRF1N\\LOS3Q52R
-8fd43684, RZXS2I4G, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\8fd43684\\EI1BRFTM\\RZXS2I4G
-90db0ae6, 1IRO44MB, 146, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\90db0ae6\\DPKQRG1P\\1IRO44MB
-90db0ae6, 1J5C4OMB, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\90db0ae6\\DPKQRG1P\\1J5C4OMB
-90db0ae6, 1XYC44MB, 124, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\90db0ae6\\DPKQRG1P\\1XYC44MB
-90db0ae6, 2B5C0IGH, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\90db0ae6\\DPKQRG1P\\2B5C0IGH
-90db0ae6, RGEL0OJQ, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\90db0ae6\\DPKQRG1P\\RGEL0OJQ
-91fea19d, 01KGNLMD, 44, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\91fea19d\\EYZFQILN\\01KGNLMD
-91fea19d, 1QLGM1MD, 44, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\91fea19d\\EYZFQILN\\1QLGM1MD
-91fea19d, IAJY5ZSC, 100, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\91fea19d\\EYZFQILN\\IAJY5ZSC
-91fea19d, Z1LGM1MD, 33, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\91fea19d\\EYZFQILN\\Z1LGM1MD
-92f4f8b6, GQUZKRIL, 97, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\92f4f8b6\\SVO4QI1L\\GQUZKRIL
-92f4f8b6, HCFETBIL, 75, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\92f4f8b6\\SVO4QI1L\\HCFETBIL
-92f4f8b6, HDMYTBIL, 146, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\92f4f8b6\\SVO4QI1L\\HDMYTBIL
-92f4f8b6, W05T1VP4, 72, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\92f4f8b6\\SVO4QI1L\\W05T1VP4
-92f4f8b6, Z35UGLY1, 75, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\92f4f8b6\\SVO4QI1L\\Z35UGLY1
-94ac3218, 02IMGS3F, 74, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\94ac3218\\TIDVRGTL\\02IMGS3F
-94ac3218, 04KBAVMF, 74, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\94ac3218\\TIDVRGTL\\04KBAVMF
-94ac3218, ZOSZCZ3K, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\94ac3218\\TIDVRGTL\\ZOSZCZ3K
-94ac3218, ZQVZCJ3K, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\94ac3218\\TIDVRGTL\\ZQVZCJ3K
-94ac3218, ZU1VCZ3K, 74, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\94ac3218\\TIDVRGTL\\ZU1VCZ3K
-9e9f9072, BAYNJ4U2, 38, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\9e9f9072\\MYBSQKDH\\BAYNJ4U2
-9e9f9072, WSIWSDHO, 64, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\9e9f9072\\MYBSQKDH\\WSIWSDHO
-9e9f9072, WXASSDHO, 54, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\9e9f9072\\MYBSQKDH\\WXASSDHO
-9e9f9072, XBUSLTHO, 37, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\9e9f9072\\MYBSQKDH\\XBUSLTHO
-9e9f9072, XDDKL2UC, 38, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\9e9f9072\\MYBSQKDH\\XDDKL2UC
-a028fec4, 13E3KION, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a028fec4\\VETUREDH\\13E3KION
-a028fec4, 1CNRKION, 138, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a028fec4\\VETUREDH\\1CNRKION
-a028fec4, 1DD3KYON, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a028fec4\\VETUREDH\\1DD3KYON
-a028fec4, BDS4VEZL, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a028fec4\\VETUREDH\\BDS4VEZL
-a028fec4, CHV4NPCZ, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a028fec4\\VETUREDH\\CHV4NPCZ
-a410eb25, NLSYSR2Z, 113, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a410eb25\\DHTRRFTJ\\NLSYSR2Z
-a410eb25, NP2USB2Z, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a410eb25\\DHTRRFTJ\\NP2USB2Z
-a410eb25, O4AZQGRY, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a410eb25\\DHTRRFTJ\\O4AZQGRY
-a410eb25, XQNQZ1QV, 82, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a410eb25\\DHTRRFTJ\\XQNQZ1QV
-a7072065, 5ORWC5YT, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a7072065\\PLK4RF1H\\5ORWC5YT
-a7072065, 5QWWCPYT, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a7072065\\PLK4RF1H\\5QWWCPYT
-a7072065, 5RY0C5YT, 150, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a7072065\\PLK4RF1H\\5RY0C5YT
-a7072065, B2MTHNMY, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a7072065\\PLK4RF1H\\B2MTHNMY
-a7072065, NPZOGRS3, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\a7072065\\PLK4RF1H\\NPZOGRS3
-ac7d60a3, ILVGSYD3, 72, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ac7d60a3\\CVLVRE1P\\ILVGSYD3
-ac7d60a3, IP1KSID3, 104, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ac7d60a3\\CVLVRE1P\\IP1KSID3
-ac7d60a3, KB3WPSA4, 68, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ac7d60a3\\CVLVRE1P\\KB3WPSA4
-ac7d60a3, QDSV3SCS, 72, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ac7d60a3\\CVLVRE1P\\QDSV3SCS
-acf549ab, 3E2GH345, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\acf549ab\\OJSTRFTP\\3E2GH345
-acf549ab, DQKKZGJ0, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\acf549ab\\OJSTRFTP\\DQKKZGJ0
-acf549ab, DUEGZWJ0, 74, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\acf549ab\\OJSTRFTP\\DUEGZWJ0
-acf549ab, W0QSCDCA, 74, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\acf549ab\\OJSTRFTP\\W0QSCDCA
-ae61f469, 1Y20B2UN, 92, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ae61f469\\CVLVRG1I\\1Y20B2UN
-ae61f469, 3WKI2A3L, 92, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ae61f469\\CVLVRG1I\\3WKI2A3L
-ae61f469, R3MVRXQ1, 92, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ae61f469\\CVLVRG1I\\R3MVRXQ1
-ae61f469, RCFZRXQ1, 134, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ae61f469\\CVLVRG1I\\RCFZRXQ1
-ae61f469, RDLVRHQ1, 92, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ae61f469\\CVLVRG1I\\RDLVRHQ1
-ae7ea49e, U33VVMSY, 96, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ae7ea49e\\EQ1TRFDH\\U33VVMSY
-ae7ea49e, XUJOPVS0, 256, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ae7ea49e\\EQ1TRFDH\\XUJOPVS0
-ae7ea49e, XYHCPFS0, 96, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ae7ea49e\\EQ1TRFDH\\XYHCPFS0
-b306fac7, 1CA02WJA, 74, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\b306fac7\\VS0PJDBU\\1CA02WJA
-b306fac7, 1OOW2GJA, 262, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\b306fac7\\VS0PJDBU\\1OOW2GJA
-b306fac7, 3KGUFJEQ, 74, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\b306fac7\\VS0PJDBU\\3KGUFJEQ
-b306fac7, GCWNRLOM, 74, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\b306fac7\\VS0PJDBU\\GCWNRLOM
-b9ff0910, 2GXDUGYX, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\b9ff0910\\UIKTRFTM\\2GXDUGYX
-b9ff0910, BRS5UDHH, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\b9ff0910\\UIKTRFTM\\BRS5UDHH
-b9ff0910, R2S0Q3MZ, 162, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\b9ff0910\\UIKTRFTM\\R2S0Q3MZ
-b9ff0910, R32WQNMZ, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\b9ff0910\\UIKTRFTM\\R32WQNMZ
-b9ff0910, RD1WQ3MZ, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\b9ff0910\\UIKTRFTM\\RD1WQ3MZ
-bb0e7640, JLQHNPLZ, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\bb0e7640\\EILFRFLP\\JLQHNPLZ
-bb0e7640, JUZLNPLZ, 142, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\bb0e7640\\EILFRFLP\\JUZLNPLZ
-bb0e7640, JVXHN5LZ, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\bb0e7640\\EILFRFLP\\JVXHN5LZ
-bb0e7640, QMSIDQDQ, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\bb0e7640\\EILFRFLP\\QMSIDQDQ
-bb0e7640, ZV1SLVYJ, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\bb0e7640\\EILFRFLP\\ZV1SLVYJ
-c8903481, 2P5VEQVQ, 134, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\c8903481\\LIKQRG1M\\2P5VEQVQ
-c8903481, IMQRJ4MU, 146, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\c8903481\\LIKQRG1M\\IMQRJ4MU
-c8903481, ISXRJOMU, 134, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\c8903481\\LIKQRG1M\\ISXRJOMU
-c8903481, ITZ3J4MU, 158, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\c8903481\\LIKQRG1M\\ITZ3J4MU
-c8903481, JG25YREJ, 134, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\c8903481\\LIKQRG1M\\JG25YREJ
-cd05049c, D4D204DN, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cd05049c\\MQKRRG1N\\D4D204DN
-cd05049c, DAE20ODN, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cd05049c\\MQKRRG1N\\DAE20ODN
-cd05049c, DBKQ04DN, 130, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cd05049c\\MQKRRG1N\\DBKQ04DN
-cd05049c, FB1CWTYC, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cd05049c\\MQKRRG1N\\FB1CWTYC
-cd05049c, JBP5N5O3, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cd05049c\\MQKRRG1N\\JBP5N5O3
-cd90aa4a, 051WGCT0, 76, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cd90aa4a\\CQG5QJDI\\051WGCT0
-cd90aa4a, ULFNKZ54, 111, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cd90aa4a\\CQG5QJDI\\ULFNKZ54
-cd90aa4a, UPLBKJ54, 76, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cd90aa4a\\CQG5QJDI\\UPLBKJ54
-cd90aa4a, W4RNZMFN, 109, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cd90aa4a\\CQG5QJDI\\W4RNZMFN
-cf4811cc, QEM1TXRI, 39, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cf4811cc\\YWRF3VQZ\\QEM1TXRI
-cf4811cc, TFMDTXRI, 176, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cf4811cc\\YWRF3VQZ\\TFMDTXRI
-cf4811cc, WEMPTXRI, 39, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\cf4811cc\\YWRF3VQZ\\WEMPTXRI
-d0465160, 4NIDZFLZ, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\d0465160\\WJ1ERE1H\\4NIDZFLZ
-d0465160, BPMZKQ1E, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\d0465160\\WJ1ERE1H\\BPMZKQ1E
-d0465160, BQFVKQ1E, 154, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\d0465160\\WJ1ERE1H\\BQFVKQ1E
-d0465160, BRLZKA1E, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\d0465160\\WJ1ERE1H\\BRLZKA1E
-d0465160, K25QHM3J, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\d0465160\\WJ1ERE1H\\K25QHM3J
-dba3219c, CO20E5KM, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\dba3219c\\MXTCRGTL\\CO20E5KM
-dba3219c, DBA2YY31, 70, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\dba3219c\\MXTCRGTL\\DBA2YY31
-dba3219c, DFOQYI31, 114, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\dba3219c\\MXTCRGTL\\DFOQYI31
-dba3219c, PNQ4XHY1, 70, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\dba3219c\\MXTCRGTL\\PNQ4XHY1
-de263f5c, 3DIOGRXF, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\de263f5c\\OHTSREDN\\3DIOGRXF
-de263f5c, 3ZQCGRXF, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\de263f5c\\OHTSREDN\\3ZQCGRXF
-de263f5c, GZ23LDT2, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\de263f5c\\OHTSREDN\\GZ23LDT2
-de263f5c, HAKJRI0G, 106, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\de263f5c\\OHTSREDN\\HAKJRI0G
-e1aa56dd, OFNTFPIZ, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\e1aa56dd\\E1DORFLH\\OFNTFPIZ
-e1aa56dd, ONYGXTUQ, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\e1aa56dd\\E1DORFLH\\ONYGXTUQ
-e1aa56dd, PBUQRALY, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\e1aa56dd\\E1DORFLH\\PBUQRALY
-e1aa56dd, PF02RQLY, 90, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\e1aa56dd\\E1DORFLH\\PF02RQLY
-e2309f85, 25MEKJFI, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\e2309f85\\CQTVRFDG\\25MEKJFI
-e2309f85, 34QNOJQ4, 134, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\e2309f85\\CQTVRFDG\\34QNOJQ4
-e2309f85, 354BOZQ4, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\e2309f85\\CQTVRFDG\\354BOZQ4
-e2309f85, 3BZBOJQ4, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\e2309f85\\CQTVRFDG\\3BZBOJQ4
-e2309f85, SYBVRERM, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\e2309f85\\CQTVRFDG\\SYBVRERM
-ed4f3199, 0SIEWTNM, 76, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ed4f3199\\FEOSQILM\\0SIEWTNM
-ed4f3199, IOWFAJDF, 39, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ed4f3199\\FEOSQILM\\IOWFAJDF
-ed4f3199, J1BW2LKC, 103, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ed4f3199\\FEOSQILM\\J1BW2LKC
-ed4f3199, J2BW2LKC, 204, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ed4f3199\\FEOSQILM\\J2BW2LKC
-ed4f3199, J5P021KC, 39, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ed4f3199\\FEOSQILM\\J5P021KC
-ed4f3199, JGOAWED1, 76, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ed4f3199\\FEOSQILM\\JGOAWED1
-ed4f3199, JQP021KC, 76, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ed4f3199\\FEOSQILM\\JQP021KC
-ed4f3199, OIXBAZDF, 39, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\ed4f3199\\FEOSQILM\\OIXBAZDF
-f3992d88, GNMD2VP4, 92, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f3992d88\\EJ1BREDN\\GNMD2VP4
-f3992d88, IJ4QGICB, 98, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f3992d88\\EJ1BREDN\\IJ4QGICB
-f3992d88, ZOIGCQ13, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f3992d88\\EJ1BREDN\\ZOIGCQ13
-f3992d88, ZQPGCA13, 102, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f3992d88\\EJ1BREDN\\ZQPGCA13
-f3992d88, ZRBKCQ13, 150, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f3992d88\\EJ1BREDN\\ZRBKCQ13
-f6008ecf, FRETIBXC, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f6008ecf\\WUC5RFDI\\FRETIBXC
-f6008ecf, MY1VAK5R, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f6008ecf\\WUC5RFDI\\MY1VAK5R
-f6008ecf, YIK1NXDH, 94, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f6008ecf\\WUC5RFDI\\YIK1NXDH
-f6008ecf, YWN1NHDH, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f6008ecf\\WUC5RFDI\\YWN1NHDH
-f6008ecf, YXDXNXDH, 122, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f6008ecf\\WUC5RFDI\\YXDXNXDH
-f895b149, 2YO0G1GC, 72, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f895b149\\KHLTRFDP\\2YO0G1GC
-f895b149, NPQ3IZ20, 76, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f895b149\\KHLTRFDP\\NPQ3IZ20
-f895b149, XO1CFR53, 86, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f895b149\\KHLTRFDP\\XO1CFR53
-f895b149, XQ2CFB53, 72, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f895b149\\KHLTRFDP\\XQ2CFB53
-f895b149, XRSOFR53, 142, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\f895b149\\KHLTRFDP\\XRSOFR53
-fb1ac62e, VAADK34V, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\fb1ac62e\\JFKTREDP\\VAADK34V
-fb1ac62e, XKBA2GBE, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\fb1ac62e\\JFKTREDP\\XKBA2GBE
-fb1ac62e, XP1ODREE, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\fb1ac62e\\JFKTREDP\\XP1ODREE
-fb1ac62e, XUGA2WBE, 110, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\fb1ac62e\\JFKTREDP\\XUGA2WBE
-fb1ac62e, XVIM2GBE, 148, C:\\ct-raw-scan\\De-identified scan images\\HCC Surveillance\\fb1ac62e\\JFKTREDP\\XVIM2GBE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0105df60
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0105df60\LEDMRE1L
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0105df60\LEDMRE1L\AGCUO5M1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0105df60\LEDMRE1L\AHMYOPM1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0105df60\LEDMRE1L\AYFUOPM1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0105df60\LEDMRE1L\BW1XSDWO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0105df60\LEDMRE1L\K43VQFQT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0105df60\LEDMRE1L\LJ3BRVQT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\08d80067
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\08d80067\ME1FRG1L
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\08d80067\ME1FRG1L\EIQQZLG1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\08d80067\ME1FRG1L\F5QMZLG1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\08d80067\ME1FRG1L\VXMKEWTQ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\08d80067\ME1FRG1L\WPUHRHS1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\08d80067\ME1FRG1L\X2MGIXS1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\08d80067\ME1FRG1L\X3F0IXS1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0bbfa4a3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0bbfa4a3\EZLBRELI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0bbfa4a3\EZLBRELI\C5FVCTPY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0bbfa4a3\EZLBRELI\DP33F3CV
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0bbfa4a3\EZLBRELI\NW0G2DEH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0bbfa4a3\EZLBRELI\UN3GWQZH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0bbfa4a3\EZLBRELI\USUKWQZH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0bbfa4a3\EZLBRELI\UT0GWAZH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0e4d9b76
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0e4d9b76\DIDXRELP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0e4d9b76\DIDXRELP\K2YIBA2T
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0e4d9b76\DIDXRELP\PMZBYQ2T
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0e4d9b76\DIDXRELP\SG35FFSV
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0e4d9b76\DIDXRELP\VTJUSIM0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0e4d9b76\DIDXRELP\VXHYSYM0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0f47322b
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0f47322b\MI0VRGTK
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0f47322b\MI0VRGTK\JQU0MQDD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0f47322b\MI0VRGTK\JT4Z22UD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0f47322b\MI0VRGTK\JUBR1INJ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0f47322b\MI0VRGTK\UK1QY42A
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0f47322b\MI0VRGTK\ULV2YO2A
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0f47322b\MI0VRGTK\UU2QYO2A
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0fd514fc
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0fd514fc\J00AJDB2
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0fd514fc\J00AJDB2\0CYCTZIY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0fd514fc\J00AJDB2\0DR4TZIY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0fd514fc\J00AJDB2\1QJ5KJIY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0fd514fc\J00AJDB2\BCCJGW41
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0fd514fc\J00AJDB2\C00UNBMK
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0fd514fc\J00AJDB2\CZWUNRMK
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\0fd514fc\J00AJDB2\HLDFGG41
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\11c00f1d
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\11c00f1d\JS03JDZ5
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\11c00f1d\JS03JDZ5\AHIZWHDD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\11c00f1d\JS03JDZ5\BTMUVMYP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\11c00f1d\JS03JDZ5\CQMMV2YP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\11c00f1d\JS03JDZ5\J3M24MOR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\11c00f1d\JS03JDZ5\JCFQ4MOR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\11c00f1d\JS03JDZ5\JDL242OR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\124772d6
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\124772d6\KYDHRG1K
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\124772d6\KYDHRG1K\4KZ4RHFR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\124772d6\KYDHRG1K\KCLPF1Y4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\124772d6\KYDHRG1K\LGONO53D
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\124772d6\KYDHRG1K\LHABOP3D
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\124772d6\KYDHRG1K\LZHBO53D
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\124772d6\KYDHRG1K\Z4IHDPSU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\12c1b0f9
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\12c1b0f9\WVTMRELM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\12c1b0f9\WVTMRELM\BS2V5003
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\12c1b0f9\WVTMRELM\JAZQNPFW
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\12c1b0f9\WVTMRELM\JOQMNPFW
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\12c1b0f9\WVTMRELM\Q3SO4CR4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\12c1b0f9\WVTMRELM\RZTG5SR4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\1b71cbc1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\1b71cbc1\CUDBRGTP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\1b71cbc1\CUDBRGTP\BNYEOD40
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\1b71cbc1\CUDBRGTP\GMVTEEO2
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\1b71cbc1\CUDBRGTP\GMYUOD40
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\1b71cbc1\CUDBRGTP\ZGD0ZQZI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\1b71cbc1\CUDBRGTP\ZYE0ZAZI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\1b71cbc1\CUDBRGTP\ZZKWZQZI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\21556cad
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\21556cad\MDKTRGDM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\21556cad\MDKTRGDM\SM5F3B0M
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\21556cad\MDKTRGDM\SM5R3B0M
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\21556cad\MDKTRGDM\VG15YCCS
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\21556cad\MDKTRGDM\YLG4VGMH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\21556cad\MDKTRGDM\YPISVWMH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\218dfc1f
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\218dfc1f\OHCQRFDE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\218dfc1f\OHCQRFDE\JHJTSQ3A
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\218dfc1f\OHCQRFDE\M2YUCOPZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\218dfc1f\OHCQRFDE\M3WYC4PZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\218dfc1f\OHCQRFDE\MC5UC4PZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\218dfc1f\OHCQRFDE\WN3RK5Q1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\218dfc1f\OHCQRFDE\XO3NLPQ1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\25cfd6e7
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\25cfd6e7\OEPDRFTI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\25cfd6e7\OEPDRFTI\2LDDMFPY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\25cfd6e7\OEPDRFTI\2UKPMFPY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\25cfd6e7\OEPDRFTI\2VEDMVPY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\25cfd6e7\OEPDRFTI\2XMPIB0F
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\25cfd6e7\OEPDRFTI\J31RDDHZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\25cfd6e7\OEPDRFTI\PK1FDDHZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\26737d04
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\26737d04\TEHORGDH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\26737d04\TEHORGDH\0B4ZED5V
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\26737d04\TEHORGDH\2MD1KPYC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\26737d04\TEHORGDH\2SE1K5YC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\26737d04\TEHORGDH\2TKXKPYC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\26737d04\TEHORGDH\305JED5V
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\26737d04\TEHORGDH\Z2Y15RGF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2a6ad103
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2a6ad103\E5GEQK1K
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2a6ad103\E5GEQK1K\MJMSFVOO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2a6ad103\E5GEQK1K\NVYS2FOO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2a6ad103\E5GEQK1K\RF2G5DSX
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2a6ad103\E5GEQK1K\WY2G5DSX
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2a6ad103\E5GEQK1K\X1345DSX
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2b786308
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2b786308\MAB2QKDJ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2b786308\MAB2QKDJ\RAUGCMIA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2b786308\MAB2QKDJ\RFUGCMIA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2b786308\MAB2QKDJ\SXUSCMIA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2b786308\MAB2QKDJ\XXUKCMIA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2b786308\MAB2QKDJ\XYUGCMIA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2d08555a
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2d08555a\NLKVRE1E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2d08555a\NLKVRE1E\B22LFNUY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2d08555a\NLKVRE1E\LPYOARS3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2d08555a\NLKVRE1E\P3Y0ARS3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2d08555a\NLKVRE1E\PSY0C5YW
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\2d08555a\NLKVRE1E\PWWWCPYW
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\31aeff0f
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\31aeff0f\C1SRRE1P
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\31aeff0f\C1SRRE1P\FZHTUC3R
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\31aeff0f\C1SRRE1P\IITONXSD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\31aeff0f\C1SRRE1P\IM3CNHSD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\31aeff0f\C1SRRE1P\M52R00GT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\31aeff0f\C1SRRE1P\N32F00GT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\33c55881
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\33c55881\LLPARFDM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\33c55881\LLPARFDM\HILZB55Y
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\33c55881\LLPARFDM\HJFVBP5Y
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\33c55881\LLPARFDM\HXCVB55Y
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\33c55881\LLPARFDM\TDT45CR4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\33c55881\LLPARFDM\TOTO5CR4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\33c55881\LLPARFDM\Z53WJOKF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\36c22d03
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\36c22d03\BHLERE1K
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\36c22d03\BHLERE1K\3WL50CDN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\36c22d03\BHLERE1K\QKFMEXN0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\36c22d03\BHLERE1K\QLLAEHN0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\36c22d03\BHLERE1K\QVMAEXN0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\36c22d03\BHLERE1K\ST5B22EZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\36c22d03\BHLERE1K\WM5V3MEZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\38d6ea7f
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\38d6ea7f\JHGVQKDJ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\38d6ea7f\JHGVQKDJ\5WRZYYLF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\38d6ea7f\JHGVQKDJ\IYORY2RC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\38d6ea7f\JHGVQKDJ\MO1VAASR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\38d6ea7f\JHGVQKDJ\MPVZAQSR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\38d6ea7f\JHGVQKDJ\MQ2VAQSR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\38d6ea7f\JHGVQKDJ\OJSN4SV3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\39f9ae62
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\39f9ae62\SQSVRFTI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\39f9ae62\SQSVRFTI\ABYJZEH0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\39f9ae62\SQSVRFTI\GRZFZEH0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\39f9ae62\SQSVRFTI\NOK1ACS5
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\39f9ae62\SQSVRFTI\YONPBG31
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\39f9ae62\SQSVRFTI\YPDDBW31
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\39f9ae62\SQSVRFTI\YREDBG31
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\3d5a8bde
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\3d5a8bde\KTS5REDL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\3d5a8bde\KTS5REDL\2HW2TTSK
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\3d5a8bde\KTS5REDL\2LYQTDSK
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\3d5a8bde\KTS5REDL\EDZN4R1N
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\3d5a8bde\KTS5REDL\H3CTBDMR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\3d5a8bde\KTS5REDL\UQHCAP5H
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4452d959
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4452d959\UVWHQILI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4452d959\UVWHQILI\5E04EDII
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4452d959\UVWHQILI\5H04EDII
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4452d959\UVWHQILI\T3YNICS1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4452d959\UVWHQILI\UHJO5TBR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4452d959\UVWHQILI\ULYNICS1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4452d959\UVWHQILI\V13OGDBR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4452d959\UVWHQILI\V5VKGDBR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4675e8d7
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4675e8d7\UV1ORGTK
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4675e8d7\UV1ORGTK\2JCC3YSX
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4675e8d7\UV1ORGTK\2WLO3YSX
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4675e8d7\UV1ORGTK\2XFC3ISX
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4675e8d7\UV1ORGTK\C3QZBCG5
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4675e8d7\UV1ORGTK\CJ1SHRSZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4675e8d7\UV1ORGTK\EORJBCG5
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\46b6b0df
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\46b6b0df\IACSRF1M
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\46b6b0df\IACSRF1M\3GM0E5XG
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\46b6b0df\IACSRF1M\CCLLKGI0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\46b6b0df\IACSRF1M\CYTHKGI0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\46b6b0df\IACSRF1M\MDQSQL5V
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\46b6b0df\IACSRF1M\PBQCQL5V
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\47e2b3f1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\47e2b3f1\CE1MRG1H
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\47e2b3f1\CE1MRG1H\1P4RU3UF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\47e2b3f1\CE1MRG1H\FR2L4TFF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\47e2b3f1\CE1MRG1H\Q23QZHDS
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\47e2b3f1\CE1MRG1H\QC0QZXDS
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\47e2b3f1\CE1MRG1H\QDU2ZHDS
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\47e2b3f1\CE1MRG1H\ZS5NU3UF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\49af368e
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\49af368e\IBW2QILG
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\49af368e\IBW2QILG\0BD2Q2GR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\49af368e\IBW2QILG\0ID2Q2GR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\49af368e\IBW2QILG\5MCIQ2GR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\49af368e\IBW2QILG\WC0SVA22
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\49af368e\IBW2QILG\WGSWVA22
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\49af368e\IBW2QILG\X0GWMQ22
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4b2ae7df
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4b2ae7df\DECTRG1J
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4b2ae7df\DECTRG1J\U30OFREE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4b2ae7df\DECTRG1J\V3I52X2H
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4b2ae7df\DECTRG1J\VADTNNAV
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4b2ae7df\DECTRG1J\VCBT2X2H
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4b2ae7df\DECTRG1J\VDP52H2H
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4b2ae7df\DECTRG1J\XN1GABEE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4fbec240\GA1JXMTI\JOGT2EB4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4fbec240\GA1JXMTI\P0HL2EB4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4fbec240\GA1JXMTI\PBGT2EB4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\4fbec240\GA1JXMTI\PTGT2EB4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\513b4145
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\513b4145\KBTXRF1E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\513b4145\KBTXRF1E\04NRF5VC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\513b4145\KBTXRF1E\5PIKQ5UB
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\513b4145\KBTXRF1E\TGYQGJ2E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\513b4145\KBTXRF1E\THW2GZ2E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\513b4145\KBTXRF1E\TY5QGZ2E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\513b4145\KBTXRF1E\YAJCQPUB
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\51f582d4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\51f582d4\TRSPJCR2
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\51f582d4\TRSPJCR2\35RVAUKD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\51f582d4\TRSPJCR2\3AYZAUKD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\51f582d4\TRSPJCR2\3BWVAEKD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\51f582d4\TRSPJCR2\I1NMXRRR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\51f582d4\TRSPJCR2\KYM2XRRR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\51f582d4\TRSPJCR2\MF0FXHIJ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\52a2ab48
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\52a2ab48\NNOSQKTM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\52a2ab48\NNOSQKTM\0TJU12QA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\52a2ab48\NNOSQKTM\33JY12QA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\52a2ab48\NNOSQKTM\CAHRDWZN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\52a2ab48\NNOSQKTM\VJVYAIAS
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\52a2ab48\NNOSQKTM\VN1UAYAS
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\5c7708a0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\5c7708a0\SJPORFDK
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\5c7708a0\SJPORFDK\2LRQDH34
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\5c7708a0\SJPORFDK\2P52DX34
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\5c7708a0\SJPORFDK\4CTOLG5W
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\5c7708a0\SJPORFDK\FPK4JM0S
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\5c7708a0\SJPORFDK\ZISGOW5W
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\614d830e
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\614d830e\SFKPJCZ3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\614d830e\SFKPJCZ3\0LJF41YX
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\614d830e\SFKPJCZ3\1OJV41YX
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\614d830e\SFKPJCZ3\AEYBACNT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\614d830e\SFKPJCZ3\AI22G2JN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\614d830e\SFKPJCZ3\AMSQGMJN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\61a0a777
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\61a0a777\VJWMQIDP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\61a0a777\VJWMQIDP\2LIBENMO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\61a0a777\VJWMQIDP\2PAFENMO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\61a0a777\VJWMQIDP\3TUF33MO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\61a0a777\VJWMQIDP\AXR0ZPFW
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\61a0a777\VJWMQIDP\D0QOZPFW
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\61a0a777\VJWMQIDP\D3QOZPFW
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\64d27997
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\64d27997\I5S4RGDK
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\64d27997\I5S4RGDK\40TQLAFT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\64d27997\I5S4RGDK\F2JNNHTM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\64d27997\I5S4RGDK\F3HBNXTM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\64d27997\I5S4RGDK\FDABNHTM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\64d27997\I5S4RGDK\FZWSIU0J
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\64d27997\I5S4RGDK\ZDTALAFT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\65f7cdf9
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\65f7cdf9\AYJUQKDL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\65f7cdf9\AYJUQKDL\VV4X23MU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\65f7cdf9\AYJUQKDL\WU4123MU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\65f7cdf9\AYJUQKDL\WW4523MU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\65f7cdf9\AYJUQKDL\XT4X23MU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\65f7cdf9\AYJUQKDL\XU4X23MU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6a7cab6a
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6a7cab6a\FF0TRGTI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6a7cab6a\FF0TRGTI\LKRA2GBE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6a7cab6a\FF0TRGTI\LUWA2WBE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6a7cab6a\FF0TRGTI\LVYM2GBE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6a7cab6a\FF0TRGTI\S21WCREE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6a7cab6a\FF0TRGTI\UR1GCREE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6a7cab6a\FF0TRGTI\VAC1IN2V
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6e1784d7
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6e1784d7\DLGUQK1K
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6e1784d7\DLGUQK1K\4KXOYY3O
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6e1784d7\DLGUQK1K\5SLKBI3O
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6e1784d7\DLGUQK1K\5WDOBI3O
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6e1784d7\DLGUQK1K\WBIJAN4F
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6e1784d7\DLGUQK1K\WMJ3AN4F
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6e1784d7\DLGUQK1K\WRJ3AN4F
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6ff9d904
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6ff9d904\WBXBRGDE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6ff9d904\WBXBRGDE\0NYG1ZDV
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6ff9d904\WBXBRGDE\FE35FIH4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6ff9d904\WBXBRGDE\PJQLIPIL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6ff9d904\WBXBRGDE\PN4HI5IL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\6ff9d904\WBXBRGDE\RRCZ3L1J
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\77e10e32
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\77e10e32\UZXCRGDN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\77e10e32\UZXCRGDN\2Z332H4P
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\77e10e32\UZXCRGDN\3N2J2H4P
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\77e10e32\UZXCRGDN\IYCDTCGM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\77e10e32\UZXCRGDN\QKA0Z3QO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\77e10e32\UZXCRGDN\QOOWZNQO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\781c605c
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\781c605c\NLRRQIDK
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\781c605c\NLRRQIDK\LA5JGIWO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\781c605c\NLRRQIDK\MB0SROJH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\781c605c\NLRRQIDK\NXOSI4JH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\781c605c\NLRRQIDK\U1QCWVSP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\781c605c\NLRRQIDK\U4QCWVSP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79408454
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79408454\MDKXRFTM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79408454\MDKXRFTM\3QMMLYHU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79408454\MDKXRFTM\5132FX2W
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79408454\MDKXRFTM\5EUQFX2W
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79408454\MDKXRFTM\5F02FH2W
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79408454\MDKXRFTM\DNTZIQUU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79408454\MDKXRFTM\HJQL0MFE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79efb594
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79efb594\JVCOJDZW
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79efb594\JVCOJDZW\CMD5WT15
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79efb594\JVCOJDZW\EDDPWT15
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79efb594\JVCOJDZW\IHCYJLMH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79efb594\JVCOJDZW\K4T5OMP1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79efb594\JVCOJDZW\KAU5O2P1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\79efb594\JVCOJDZW\KB0TOMP1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\83f39023
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\83f39023\O3TERF1P
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\83f39023\O3TERF1P\545OSYU3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\83f39023\O3TERF1P\5T4CSIU3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\83f39023\O3TERF1P\PAR24IZN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\83f39023\O3TERF1P\PE5Q4YZN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\83f39023\O3TERF1P\SMPXZP3S
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8e74b56e
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8e74b56e\CVTEREDL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8e74b56e\CVTEREDL\03QCZFYR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8e74b56e\CVTEREDL\DPC2SA55
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8e74b56e\CVTEREDL\DRF2SQ55
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8e74b56e\CVTEREDL\OP1SE4SB
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8e74b56e\WQ0QRF1K
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8e74b56e\WQ0QRF1K\3TJW4XTD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8e74b56e\WQ0QRF1K\PORMEA4A
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fb88b3e
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fb88b3e\M2DMRF1N
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fb88b3e\M2DMRF1N\E0PT3X5E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fb88b3e\M2DMRF1N\EEIT3H5E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fb88b3e\M2DMRF1N\EFG53X5E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fb88b3e\M2DMRF1N\FRIYPUBB
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fb88b3e\M2DMRF1N\LOS3Q52R
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fb88b3e\M2DMRF1N\OURI14K2
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fd43684\EI1BRFTM\RG442I4G
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\8fd43684\EI1BRFTM\RZXS2I4G
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\90db0ae6
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\90db0ae6\DPKQRG1P
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\90db0ae6\DPKQRG1P\1IRO44MB
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\90db0ae6\DPKQRG1P\1J5C4OMB
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\90db0ae6\DPKQRG1P\1XYC44MB
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\90db0ae6\DPKQRG1P\2B5C0IGH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\90db0ae6\DPKQRG1P\3P5W5YGH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\90db0ae6\DPKQRG1P\RGEL0OJQ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\91fea19d
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\91fea19d\EYZFQILN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\91fea19d\EYZFQILN\01KGNLMD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\91fea19d\EYZFQILN\1QLGM1MD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\91fea19d\EYZFQILN\4LLGM1MD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\91fea19d\EYZFQILN\IAJY5ZSC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\91fea19d\EYZFQILN\Z1LGM1MD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\92f4f8b6
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\92f4f8b6\SVO4QI1L
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\92f4f8b6\SVO4QI1L\435EGLY1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\92f4f8b6\SVO4QI1L\GQUZKRIL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\92f4f8b6\SVO4QI1L\HCFETBIL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\92f4f8b6\SVO4QI1L\HDMYTBIL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\92f4f8b6\SVO4QI1L\W05T1VP4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\92f4f8b6\SVO4QI1L\Z35UGLY1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\94ac3218
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\94ac3218\TIDVRGTL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\94ac3218\TIDVRGTL\02IMGS3F
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\94ac3218\TIDVRGTL\04KBAVMF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\94ac3218\TIDVRGTL\41JAGS3F
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\94ac3218\TIDVRGTL\ZOSZCZ3K
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\94ac3218\TIDVRGTL\ZQVZCJ3K
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\94ac3218\TIDVRGTL\ZU1VCZ3K
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\9e9f9072\MYBSQKDH\BAYNJ4U2
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\9e9f9072\MYBSQKDH\BJYNJ4U2
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\9e9f9072\MYBSQKDH\WSIWSDHO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\9e9f9072\MYBSQKDH\WXASSDHO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\9e9f9072\MYBSQKDH\XBUSLTHO
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\9e9f9072\MYBSQKDH\XDDKL2UC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a028fec4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a028fec4\VETUREDH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a028fec4\VETUREDH\13E3KION
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a028fec4\VETUREDH\1CNRKION
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a028fec4\VETUREDH\1DD3KYON
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a028fec4\VETUREDH\A2SOVEZL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a028fec4\VETUREDH\BDS4VEZL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a028fec4\VETUREDH\CHV4NPCZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a410eb25
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a410eb25\DHTRRFTJ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a410eb25\DHTRRFTJ\NLSYSR2Z
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a410eb25\DHTRRFTJ\NP2USB2Z
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a410eb25\DHTRRFTJ\O4AZQGRY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a410eb25\DHTRRFTJ\XQNQZ1QV
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a410eb25\DHTRRFTJ\XTNEZ1QV
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a7072065
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a7072065\PLK4RF1H
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a7072065\PLK4RF1H\5ORWC5YT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a7072065\PLK4RF1H\5QWWCPYT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a7072065\PLK4RF1H\5RY0C5YT
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a7072065\PLK4RF1H\B2MTHNMY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a7072065\PLK4RF1H\NPZOGRS3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\a7072065\PLK4RF1H\OTY4GRS3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ac7d60a3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ac7d60a3\CVLVRE1P
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ac7d60a3\CVLVRE1P\ILVGSYD3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ac7d60a3\CVLVRE1P\IP1KSID3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ac7d60a3\CVLVRE1P\KB3WPSA4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ac7d60a3\CVLVRE1P\QDSV3SCS
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ac7d60a3\CVLVRE1P\TOSZ3SCS
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\acf549ab
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\acf549ab\OJSTRFTP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\acf549ab\OJSTRFTP\3E2GH345
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\acf549ab\OJSTRFTP\DQKKZGJ0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\acf549ab\OJSTRFTP\DUEGZWJ0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\acf549ab\OJSTRFTP\TKQ0CDCA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\acf549ab\OJSTRFTP\W0QSCDCA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae61f469
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae61f469\CVLVRG1I
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae61f469\CVLVRG1I\1Y20B2UN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae61f469\CVLVRG1I\3WKI2A3L
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae61f469\CVLVRG1I\R3MVRXQ1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae61f469\CVLVRG1I\RCFZRXQ1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae61f469\CVLVRG1I\RDLVRHQ1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae61f469\CVLVRG1I\W4VV23MR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae7ea49e
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae7ea49e\EQ1TRFDH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae7ea49e\EQ1TRFDH\TMMOBAFJ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae7ea49e\EQ1TRFDH\U33VVMSY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae7ea49e\EQ1TRFDH\XUJOPVS0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ae7ea49e\EQ1TRFDH\XYHCPFS0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b306fac7
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b306fac7\VS0PJDBU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b306fac7\VS0PJDBU\1CA02WJA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b306fac7\VS0PJDBU\1OOW2GJA
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b306fac7\VS0PJDBU\3KGUFJEQ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b306fac7\VS0PJDBU\GCWNRLOM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b306fac7\VS0PJDBU\GFT5SWD1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b9ff0910
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b9ff0910\UIKTRFTM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b9ff0910\UIKTRFTM\2GXDUGYX
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b9ff0910\UIKTRFTM\AHPVCKPR
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b9ff0910\UIKTRFTM\BRS5UDHH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b9ff0910\UIKTRFTM\R2S0Q3MZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b9ff0910\UIKTRFTM\R32WQNMZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\b9ff0910\UIKTRFTM\RD1WQ3MZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\bb0e7640
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\bb0e7640\EILFRFLP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\bb0e7640\EILFRFLP\JLQHNPLZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\bb0e7640\EILFRFLP\JUZLNPLZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\bb0e7640\EILFRFLP\JVXHN5LZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\bb0e7640\EILFRFLP\QMSIDQDQ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\bb0e7640\EILFRFLP\S3TYDQDQ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\bb0e7640\EILFRFLP\ZV1SLVYJ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\c8903481
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\c8903481\LIKQRG1M
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\c8903481\LIKQRG1M\0S5NEQVQ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\c8903481\LIKQRG1M\2P5VEQVQ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\c8903481\LIKQRG1M\IMQRJ4MU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\c8903481\LIKQRG1M\ISXRJOMU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\c8903481\LIKQRG1M\ITZ3J4MU
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\c8903481\LIKQRG1M\JG25YREJ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd05049c
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd05049c\MQKRRG1N
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd05049c\MQKRRG1N\D4D204DN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd05049c\MQKRRG1N\DAE20ODN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd05049c\MQKRRG1N\DBKQ04DN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd05049c\MQKRRG1N\FB1CWTYC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd05049c\MQKRRG1N\HM0KWDYC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd05049c\MQKRRG1N\JBP5N5O3
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd90aa4a
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd90aa4a\CQG5QJDI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd90aa4a\CQG5QJDI\051WGCT0
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd90aa4a\CQG5QJDI\S4QVZMFN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd90aa4a\CQG5QJDI\ULFNKZ54
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd90aa4a\CQG5QJDI\UPLBKJ54
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cd90aa4a\CQG5QJDI\W4RNZMFN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cf4811cc
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cf4811cc\YWRF3VQZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cf4811cc\YWRF3VQZ\QEM1TXRI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cf4811cc\YWRF3VQZ\TFMDTXRI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cf4811cc\YWRF3VQZ\WEMPTXRI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\cf4811cc\YWRF3VQZ\WGMPTXRI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\d0465160
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\d0465160\WJ1ERE1H
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\d0465160\WJ1ERE1H\4NIDZFLZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\d0465160\WJ1ERE1H\BPMZKQ1E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\d0465160\WJ1ERE1H\BQFVKQ1E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\d0465160\WJ1ERE1H\BRLZKA1E
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\d0465160\WJ1ERE1H\K25QHM3J
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\d0465160\WJ1ERE1H\OJ5MHM3J
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\dba3219c
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\dba3219c\MXTCRGTL
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\dba3219c\MXTCRGTL\CO20E5KM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\dba3219c\MXTCRGTL\DBA2YY31
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\dba3219c\MXTCRGTL\DFOQYI31
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\dba3219c\MXTCRGTL\KTQCXHY1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\dba3219c\MXTCRGTL\PNQ4XHY1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\de263f5c
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\de263f5c\OHTSREDN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\de263f5c\OHTSREDN\3DIOGRXF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\de263f5c\OHTSREDN\3ZQCGRXF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\de263f5c\OHTSREDN\DAL3RI0G
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\de263f5c\OHTSREDN\GZ23LDT2
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\de263f5c\OHTSREDN\HAKJRI0G
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e1aa56dd
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e1aa56dd\E1DORFLH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e1aa56dd\E1DORFLH\OFNTFPIZ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e1aa56dd\E1DORFLH\ONYGXTUQ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e1aa56dd\E1DORFLH\PBUQRALY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e1aa56dd\E1DORFLH\PF02RQLY
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e1aa56dd\E1DORFLH\PNYOXTUQ
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e2309f85
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e2309f85\CQTVRFDG
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e2309f85\CQTVRFDG\25MEKJFI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e2309f85\CQTVRFDG\2MNMJZFI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e2309f85\CQTVRFDG\34QNOJQ4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e2309f85\CQTVRFDG\354BOZQ4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e2309f85\CQTVRFDG\3BZBOJQ4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\e2309f85\CQTVRFDG\SYBVRERM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM\0SIEWTNM
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM\IOWFAJDF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM\J1BW2LKC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM\J2BW2LKC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM\J5P021KC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM\JGOAWED1
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM\JQP021KC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM\OIXBAZDF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\ed4f3199\FEOSQILM\OLXBAZDF
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f3992d88
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f3992d88\EJ1BREDN
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f3992d88\EJ1BREDN\GNMD2VP4
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f3992d88\EJ1BREDN\IJ4QGICB
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f3992d88\EJ1BREDN\PJ4AGICB
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f3992d88\EJ1BREDN\ZOIGCQ13
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f3992d88\EJ1BREDN\ZQPGCA13
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f3992d88\EJ1BREDN\ZRBKCQ13
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f6008ecf
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f6008ecf\WUC5RFDI
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f6008ecf\WUC5RFDI\FRETIBXC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f6008ecf\WUC5RFDI\MT1FAK5R
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f6008ecf\WUC5RFDI\MY1VAK5R
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f6008ecf\WUC5RFDI\YIK1NXDH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f6008ecf\WUC5RFDI\YWN1NHDH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f6008ecf\WUC5RFDI\YXDXNXDH
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f895b149
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f895b149\KHLTRFDP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f895b149\KHLTRFDP\2YO0G1GC
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f895b149\KHLTRFDP\IHYTUXTD
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f895b149\KHLTRFDP\NPQ3IZ20
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f895b149\KHLTRFDP\XO1CFR53
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f895b149\KHLTRFDP\XQ2CFB53
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\f895b149\KHLTRFDP\XRSOFR53
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\fb1ac62e
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\fb1ac62e\JFKTREDP
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\fb1ac62e\JFKTREDP\UJ1SCBEE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\fb1ac62e\JFKTREDP\VAADK34V
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\fb1ac62e\JFKTREDP\XKBA2GBE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\fb1ac62e\JFKTREDP\XP1ODREE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\fb1ac62e\JFKTREDP\XUGA2WBE
+C:\ct-raw-scan\De-identified scan images\HCC Surveillance\fb1ac62e\JFKTREDP\XVIM2GBE
