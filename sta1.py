@@ -1,97 +1,92 @@
-import glob
-#根据Multiple-Phases的文件清单，对各个患者的Nrrd文件进行重命名，并删除多余文件
 import os
-import csv
+import SimpleITK as sitk
+#读取由ITK-SNAP软件手动保存的所有nrrd文件的元数据,并保存为CSV文件
 
-nrrdPath=r"G:\SMART\Datasets\NRRDFiles_MultiPhases"
-#nrrdPath=r"G:\SMART\Datasets\NRRDFiles_Contrast_MultiPhases"
-csvPath=r"G:\SMART\PySMART\data\MultiplePhasesList.csv"
+basePath=r"G:\SMART\PySMART\data3\NRRD"
+nrrdFilePath = r"G:\SMART\PySMART\data3\NRRD\HCC\A001\P1.nrrd"
 
-#1 获取各个nrrd文件名
-def readNrrdFileName(basePath):
-    pList = list()
+#获取一个NRRD文件的元数据
+def readAllMetaKey(nrrdFilePath):
+    keylist =list()
+    reader = sitk.ImageFileReader()
+    reader.SetFileName(nrrdFilePath)
+    reader.LoadPrivateTagsOn()
+    reader.ReadImageInformation()
+
+    #遍历所有keys
+    for k in reader.GetMetaDataKeys():
+        keylist.append(k)
+    return keylist
+
+
+# 2.2 从路径字符串中直接获取Site ID、Patient ID, Scan ID。
+def readAllNrrdMetaData(nrrdpath, keylist):
+    metaDataList = list()
     # 判断路径是否存在
-    if (os.path.exists(basePath)):
-        dirs_type = os.listdir(basePath)
-        #print(dirs_type)
-        # 遍历每一个类别(HCC, Non-HCC)
-        for dir_type in dirs_type:
-            dirs_patient = os.listdir(os.path.join(basePath,dir_type))
-            #print(dirs_patient)
-            # 遍历每个患者
+    if (os.path.exists(nrrdpath)):
+        dirs_site = os.listdir(nrrdpath)
+        # 遍历每一个站点(类别)
+        for dir_site in dirs_site:
+            sitePath = os.path.join(nrrdpath, dir_site)
+            dirs_patient = os.listdir(sitePath)
+            # 遍历每一个患者
             for dir_patient in dirs_patient:
-                nrrdPath = os.path.join(basePath, dir_type, dir_patient)
-                print(nrrdPath)
-                fileList = glob.glob(nrrdPath + "/*.nrrd")
-                for f in fileList:
-                    fname = os.path.basename(f)
-                    pList.append([dir_type, dir_patient, f, fname])
-    print(pList)
-    return pList
+                patientPath = os.path.join(sitePath, dir_patient)
+                dirs_scan = os.listdir(patientPath)
+                # 遍历每一个Scan文件(nrrd)
+                for dir_scan in dirs_scan:
+                    scanPath = os.path.join(patientPath, dir_scan)
+                    # 调用函数,读取每个Scan文件(nrrd格式)的元数据
+                    metaData = readMetaDatafromNrrd(scanPath, keylist)
+                    # 将Site ID, Patient ID, Scan ID和读取到的元数据合成一个list
+                    metaDataItem = [dir_site, dir_patient, dir_scan]
+                    # 将两个list合并成一个
+                    metaDataItem.extend(metaData)
+                    metaDataList.append(metaDataItem)
+    #定义元数据的key code和key name,并插入到列表的头部
+    metaDataHeadCode = ['SiteID','PatientID','ScanID']
+    metaDataHeadCode = metaDataHeadCode+keylist
+    metaDataList.insert(0, metaDataHeadCode)
+    return metaDataList
 
-#2 将List列表内容保存为csv文件
+
+#使用SimpleITK读取nrrd和nii.gz元数据
+def readMetaDatafromNrrd(scanPath, keylist):
+    metaData = list()
+    reader = sitk.ImageFileReader()
+
+    reader.SetFileName(scanPath)
+    reader.LoadPrivateTagsOn()
+
+    reader.ReadImageInformation()
+
+    #遍历所有keys
+    #for k in reader.GetMetaDataKeys():
+    #    v = reader.GetMetaData(k)
+    #    print(f"({k}) = = \"{v}\"")
+
+    #print(f"Image Size: {reader.GetSize()}")
+    #print(f"Image PixelType: {sitk.GetPixelIDValueAsString(reader.GetPixelID())}")
+
+    #获取指定要读取的项的名称
+    for tag in keylist:
+        if(reader.HasMetaDataKey(tag)):
+            metaData.append(reader.GetMetaData(tag))
+        else:
+            metaData.append('')
+    return metaData
+
+#3 保存CT扫描文件路径
+# 将List列表内容保存为csv文件
 def writeData2CSV(data, filename):
     f = open(filename,'w')
     for d in data:
-        f.write(str(d).replace('[','').replace(']','').replace(' ','').replace('\'',''))
+        f.write(str(d).replace('[','').replace(']','').replace('\'',''))
         f.write("\n")
     f.close()
 
-basePath=r"G:\SMART\PySMART\data3\NRRD"
-csvPath = r"G:\SMART\PySMART\data3\NrrdFileList.csv"
-pList = readNrrdFileName(basePath)
-writeData2CSV(pList, csvPath)
+#获取一个NRRD文件的元数据
+keylist = readAllMetaKey(nrrdFilePath)
 
-
-#2 加载Multiple-Phases的文件清单
-def load_Multiple_Phases_List(csvPath):
-    with open(csvPath, 'r') as f:
-        reader = csv.reader(f)
-        result = list(reader)
-        #print(result[1])
-        return result
-
-multPhasesList = load_Multiple_Phases_List(csvPath)
-print(len(multPhasesList))
-
-
-#根据multPhasesList，遍历各患者文件夹并修改名称
-def reNameFileName(multPhasesList, basePath):
-    for f in multPhasesList:
-        srcFile = os.path.join(basePath, f[0].strip(), f[1].strip(), f[3].strip())   #加.strip()是将前后空格去掉
-        print("原始文件名:", srcFile)
-        dstFile = os.path.join(basePath, f[0].strip(), f[1].strip(), f[4].strip())
-        print("新文件名:", dstFile)
-        try:
-            if (os.path.exists(srcFile)):
-                os.rename(srcFile,dstFile)
-        except Exception as e:
-            print(e)
-            print('rename file fail\r\n')
-        else:
-            print('rename file success\r\n')
-
-#删除多余的文件
-def removeUnuseFiles(basePath):
-    # 判断路径是否存在
-    if (os.path.exists(basePath)):
-        dirs_type = os.listdir(basePath)
-        # 遍历每一个类别
-        for dir_type in dirs_type:
-            typePath = os.path.join(basePath, dir_type)
-            dirs_patient = os.listdir(typePath)
-            # 遍历每一个患者
-            for dir_patient in dirs_patient:
-                patientPath = os.path.join(typePath, dir_patient)
-                files = os.listdir(patientPath)
-                lista = ['P1', 'P2', 'P3', 'P4']
-                for file in files:
-                    fname = file[0:1]  #只获取前两个字符
-                    if fname not in lista:
-                        os.remove(os.path.join(patientPath, file))
-
-csvPath2 = r"G:\SMART\PySMART\data3\NrrdFileList_v2.csv"
-
-multPhasesList = load_Multiple_Phases_List(csvPath2)
-reNameFileName(multPhasesList, basePath)
-#removeUnuseFiles(basePath)
+metaDataList = readAllNrrdMetaData(basePath, keylist)
+writeData2CSV(metaDataList, "../data3/MeatDataList3_fromNrrd.csv")
