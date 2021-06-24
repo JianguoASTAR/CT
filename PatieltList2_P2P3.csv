@@ -1,43 +1,22 @@
-PatientID,ScanID,Imagecount,Path
-0460dc48,BP3R5QO1,219,C:\ct-raw-scan\De-identified scan images\Non-HCC\0460dc48\W5TQRF1G\BP3R5QO1
-060604e8,N2KNAJQG,292,C:\ct-raw-scan\De-identified scan images\Non-HCC\060604e8\NIDTRGDG\N2KNAJQG
-0b044c5a,STCLKSRG,272,C:\ct-raw-scan\De-identified scan images\Non-HCC\0b044c5a\JES2RG1M\STCLKSRG
-0b86fdd2,EY2B25GQ,204,C:\ct-raw-scan\De-identified scan images\Non-HCC\0b86fdd2\UQLSRELP\EY2B25GQ
-128eb24b,GZ44WQYR,263,C:\ct-raw-scan\De-identified scan images\Non-HCC\128eb24b\KYDURG1N\GZ44WQYR
-16455383,D02LUOYC,260,C:\ct-raw-scan\De-identified scan images\Non-HCC\16455383\ILS5REDN\D02LUOYC
-19058941,SCMDVVLI,284,C:\ct-raw-scan\De-identified scan images\Non-HCC\19058941\OBPERFLE\SCMDVVLI
-1d765097,M0KEJTYR,190,C:\ct-raw-scan\De-identified scan images\Non-HCC\1d765097\LILQRF1L\M0KEJTYR
-41abc3c3,0CZTGEYK,276,C:\ct-raw-scan\De-identified scan images\Non-HCC\41abc3c3\CF44QJLG\0CZTGEYK
-48d0d80a,JOI0MHG1,276,C:\ct-raw-scan\De-identified scan images\Non-HCC\48d0d80a\SR0URFTH\JOI0MHG1
-48d0d80a,MFNZJJ0S,112,C:\ct-raw-scan\De-identified scan images\Non-HCC\48d0d80a\SR0URFTH\MFNZJJ0S
-4a8c41b2,NYE11BIT,312,C:\ct-raw-scan\De-identified scan images\Non-HCC\4a8c41b2\AA1HRFTL\NYE11BIT
-4ce309ff,HUTFASPT,278,C:\ct-raw-scan\De-identified scan images\Non-HCC\4ce309ff\AETTRE1J\HUTFASPT
-662c1473,NK4MVZ4H,282,C:\ct-raw-scan\De-identified scan images\Non-HCC\662c1473\SHLARFLJ\NK4MVZ4H
-687cab02,BWW1FFU4,272,C:\ct-raw-scan\De-identified scan images\Non-HCC\687cab02\DJLFRG1M\BWW1FFU4
-6d21cd20,JS2INAOJ,119,C:\ct-raw-scan\De-identified scan images\Non-HCC\6d21cd20\O5KSRGDI\JS2INAOJ
-6d21cd20,VB0CH4YY,306,C:\ct-raw-scan\De-identified scan images\Non-HCC\6d21cd20\O5KSRGDI\VB0CH4YY
-754bea2b,JXSFMZ1H,280,C:\ct-raw-scan\De-identified scan images\Non-HCC\754bea2b\CRTARFTJ\JXSFMZ1H
-76bee596,4RM5DH25,202,C:\ct-raw-scan\De-identified scan images\Non-HCC\76bee596\UXXBRELP\4RM5DH25
-7b3fc3b5,GF2T0TUW,306,C:\ct-raw-scan\De-identified scan images\Non-HCC\7b3fc3b5\UXT2RGTH\GF2T0TUW
-8ac202b1,UNSSE5Z4,300,C:\ct-raw-scan\De-identified scan images\Non-HCC\8ac202b1\AITARG1H\UNSSE5Z4
-988383ea,1BJXXO1U,282,C:\ct-raw-scan\De-identified scan images\Non-HCC\988383ea\MTKTRFDN\1BJXXO1U
-9d191a88,SDMHV33C,284,C:\ct-raw-scan\De-identified scan images\Non-HCC\9d191a88\BHHFRELN\SDMHV33C
-9d307c54,AXSH0AYJ,579,C:\ct-raw-scan\De-identified scan images\Non-HCC\9d307c54\WIHPRFTE\AXSH0AYJ
-9e992844,FRRSU40A,511,C:\ct-raw-scan\De-identified scan images\Non-HCC\9e992844\AESURFDK\FRRSU40A
-a3d1a524,QXG0XREL,290,C:\ct-raw-scan\De-identified scan images\Non-HCC\a3d1a524\M5DORGDE\QXG0XREL
-a485efe7,ALOKLMA3,292,C:\ct-raw-scan\De-identified scan images\Non-HCC\a485efe7\JLDORFTL\ALOKLMA3
-a4b42452,RHGBRQCG,120,C:\ct-raw-scan\De-identified scan images\Non-HCC\a4b42452\KDKSRFLG\RHGBRQCG
-a4b42452,RIYSGFTR,286,C:\ct-raw-scan\De-identified scan images\Non-HCC\a4b42452\KDKSRFLG\RIYSGFTR
-a87d23f9,FOMGMMAS,535,C:\ct-raw-scan\De-identified scan images\Non-HCC\a87d23f9\EA0VRFLK\FOMGMMAS
-a951af9b,SPK12O3J,216,C:\ct-raw-scan\De-identified scan images\Non-HCC\a951af9b\OHDORFDI\SPK12O3J
-ac9df4c5,WR55ICJ3,224,C:\ct-raw-scan\De-identified scan images\Non-HCC\ac9df4c5\MY5ORGTN\WR55ICJ3
-b93713e4,1OJKS1EW,160,C:\ct-raw-scan\De-identified scan images\Non-HCC\b93713e4\AYHCRF1J\1OJKS1EW
-b93713e4,MS25P2XZ,318,C:\ct-raw-scan\De-identified scan images\Non-HCC\b93713e4\AYHCRF1J\MS25P2XZ
-c4b7c0f5,JXML3Q1R,292,C:\ct-raw-scan\De-identified scan images\Non-HCC\c4b7c0f5\OA1DRELL\JXML3Q1R
-cd2a7283,CZR5AGZ5,270,C:\ct-raw-scan\De-identified scan images\Non-HCC\cd2a7283\WEHDRGDG\CZR5AGZ5
-dcbddc1b,I20PAWEZ,274,C:\ct-raw-scan\De-identified scan images\Non-HCC\dcbddc1b\JMXCREDH\I20PAWEZ
-dd62ffa2,GFAD3D0W,290,C:\ct-raw-scan\De-identified scan images\Non-HCC\dd62ffa2\JN12RGDL\GFAD3D0W
-e505388b,GVRSEBPQ,266,C:\ct-raw-scan\De-identified scan images\Non-HCC\e505388b\EXPBRFTI\GVRSEBPQ
-e8dce027,32UKLB33,284,C:\ct-raw-scan\De-identified scan images\Non-HCC\e8dce027\SIS5RFDJ\32UKLB33
-f6f59d6e,TD1TVC5Y,583,C:\ct-raw-scan\De-identified scan images\Non-HCC\f6f59d6e\W1KRRE1H\TD1TVC5Y
-fbffdeab,TBH5UN1J,563,C:\ct-raw-scan\De-identified scan images\Non-HCC\fbffdeab\CZ0TRFDL\TBH5UN1J
+#重命名JPG文件
+import pandas as pd
+import glob
+import os
+
+def renameFile(p2p3Path2):
+    df = pd.read_csv(p2p3Path2, header=0, sep=",")
+    for index, row in df.iterrows():
+        dicompath = df.iloc[index, 3]  # 获取第0行第0列(路径)
+        dicompath = dicompath + "_jpg"
+        fileList = glob.glob(dicompath + "/*")
+        for file in fileList:
+
+            filename = os.path.split(file)[-1]  #共8位，I1000000,I2000000, ..., I9000000, I1000001, I1100000, I1200000, ..., I1900000,I2000001,I2100000,
+            #先将每逢10的数（尾数为1） I1000001,的命名找出并重新命名
+            if filename[-1]=="1" and len(filename)==8 :
+                newname =int(filename[1:-1])  #取第1-7位的值并转为整数, 将第一位"I"和最后一位"1"去掉
+                newname = newname.zfill(5)
+                newname = str(newname)+".jpg"
+                os.rename(file, os.path.join(dicompath, newname))
+
+p2p3Path2 = r"Path_P2P3-NonHCC40.csv"
