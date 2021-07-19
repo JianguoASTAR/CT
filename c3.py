@@ -21,57 +21,56 @@ def batchReadMetaData(filePath, saveBasePath):
         pID = df.loc[index, "PatientID"]
         dicompath = df.loc[index, "Path"]
         #读取元数据
-        metaDataList, seriedescription = readMetaDatafromDICOMSeries2(dicompath)  #只读取一部分元数据
-        #保存元数据
-        savePath = os.path.join(saveBasePath, pID +"_"+ seriedescription+".csv")
-        #有的患者有两个相同的序列名称seriedescription，则防止被覆盖
-        if(os.path.exists(savePath)):
-            savePath = os.path.join(saveBasePath, pID + "_" + seriedescription +"_"+str(i)+ ".csv")
-            i = i+1
-        df_meta = pd.DataFrame(metaDataList)
-        df_meta.to_csv(savePath, header=0, index=None)
-        print("read meta data success:", savePath)
+        # 设置序列读取器
+        series_ids = sitk.ImageSeriesReader.GetGDCMSeriesIDs(dicompath)
+        # print("series ids:", series_ids)
 
-#3 加载DICOM切片序列文件的元数据
-def readMetaDatafromDICOMSeries2(dicompath):
-    # 设置序列读取器
-    series_ids = sitk.ImageSeriesReader.GetGDCMSeriesIDs(dicompath)
-    # print("series ids:", series_ids)
+        if not series_ids:
+            print("ERROR: given directory dose not a DICOM series.")
+            sys.exit(1)
+        for serie in series_ids:
+            series_file_names = sitk.ImageSeriesReader.GetGDCMSeriesFileNames(dicompath, serie)
+            series_reader = sitk.ImageSeriesReader()
+            series_reader.SetFileNames(series_file_names)
+            image3D = series_reader.Execute()
+            reader = sitk.ImageFileReader()
+            reader.SetFileName(series_file_names[0])
+            reader.ReadImageInformation()
 
-    if not series_ids:
-        print("ERROR: given directory dose not a DICOM series.")
-        sys.exit(1)
-    for serie in series_ids:
-        series_file_names = sitk.ImageSeriesReader.GetGDCMSeriesFileNames(dicompath, serie)
-        series_reader = sitk.ImageSeriesReader()
-        series_reader.SetFileNames(series_file_names)
-        image3D = series_reader.Execute()
-        reader = sitk.ImageFileReader()
-        reader.SetFileName(series_file_names[0])
-        reader.ReadImageInformation()
+            image_array = sitk.GetArrayFromImage(image3D)
 
-        image_array = sitk.GetArrayFromImage(image3D)
+            keylist = list(['0008|0030', '0008|0031', '0008|0032',
+                            '0008|0033'])  # 只需要,,StudyTime, SeriesTime, AcquisitionTime和ContentTime
 
-        keylist = list(['0008|0030', '0008|0031', '0008|0032',
-                        '0008|0033'])  # 只需要,,StudyTime, SeriesTime, AcquisitionTime和ContentTime
+            metaDataList = list()
+            metaDataList.append(keylist)
+            # 遍历每个slice
+            for slice_num in range(len(series_file_names)):
+                metaData = list()
+                metaData.append(series_file_names[slice_num])
+                for tag in keylist:
+                    # print(tag)
+                    if (series_reader.HasMetaDataKey(slice_num, tag)):
+                        metaData.append(series_reader.GetMetaData(slice_num, tag))
+                    else:
+                        metaData.append('')
+                metaDataList.append(metaData)
 
-        metaDataList = list()
-        metaDataList.append(keylist)
-        # 遍历每个slice
-        for slice_num in range(len(series_file_names)):
-            metaData = list()
-            metaData.append(series_file_names[slice_num])
-            for tag in keylist:
-                # print(tag)
-                if (series_reader.HasMetaDataKey(slice_num, tag)):
-                    metaData.append(series_reader.GetMetaData(slice_num, tag))
-                else:
-                    metaData.append('')
-            metaDataList.append(metaData)
+            seriedescription = series_reader.GetMetaData(0, '0008|103e')  # 读取对应的Tag，0002开头的不能读写
+            seriedescription = seriedescription.replace("/", "")  # 有些描述有"/"符号
 
-    seriedescription = series_reader.GetMetaData(0, '0008|103e')  # 读取对应的Tag，0002开头的不能读写
-    seriedescription = seriedescription.replace("/", "")  # 有些描述有"/"符号
-    return metaDataList, seriedescription
+            # 保存元数据
+            savePath = os.path.join(saveBasePath, pID + "_" + seriedescription + ".csv")
+            # 有的患者有两个相同的序列名称seriedescription，则防止被覆盖
+            if (os.path.exists(savePath)):
+                savePath = os.path.join(saveBasePath, pID + "_" + seriedescription + "_" + str(i) + ".csv")
+                i = i + 1
+            df_meta = pd.DataFrame(metaDataList)
+            df_meta.to_csv(savePath, header=0, index=None)
+            print("read meta data success:", savePath)
+
 
 #2 批量执行元数据读取
 batchReadMetaData(filePath, saveBasePath)
+
+
